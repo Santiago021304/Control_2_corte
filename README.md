@@ -113,3 +113,13 @@ Y el nuevo diagrama seria
 ![Figura de ejemplo](imagenes/nuevobode.png)
 
 Figura 5. Imagen Diagrama bode con controlador.
+
+## Conclusiones
+El diseño de redes de atraso mediante el análisis en frecuencia es una herramienta fundamental en el campo del control automático. Este enfoque permite a los ingenieros ajustar la respuesta de un sistema, especialmente en lo que respecta al error en estado estacionario y la estabilidad del sistema en lazo cerrado. Al utilizar diagramas de Bode, se pueden visualizar claramente los márgenes de ganancia y fase, facilitando la identificación de las modificaciones necesarias en el controlador para cumplir con especificaciones de rendimiento.
+
+Las redes de atraso son especialmente efectivas para mejorar la precisión en bajas frecuencias sin afectar negativamente la estabilidad en altas frecuencias, lo que es crucial para minimizar el impacto del ruido. Además, la integración de controladores PID en este contexto resalta cómo las acciones proporcional, integral y derivativa pueden ser sintonizadas para influir en diferentes aspectos del comportamiento del sistema.
+
+En definitiva, el dominio del diseño de controladores por análisis en frecuencia y la implementación de redes de atraso permiten desarrollar sistemas de control más robustos y eficientes. Esta metodología es esencial para abordar los desafíos modernos en ingeniería de control, asegurando que los sistemas puedan operar de manera óptima bajo diversas condiciones y requisitos.
+
+## Referencias
+[1]“AulasVirtualesECCI: Entrar al sitio”, Edu.co. [En línea]. Disponible: https://aulas.ecci.edu.co/course/view.php?id=9304 . [Consulta: 2 de Octubre de 2024].
