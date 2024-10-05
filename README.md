@@ -60,16 +60,16 @@ Finalmente, se calcula 𝑇1 utilizando la relación: $T_{1}=\frac{10}{A*w_{G}}$
 * Se tiene la siguiente funcion: $G(w)= \frac{1}{w(w+9)(w+6)}$
 * Hallar Kp para un error de estado estacionaro $e_{v}$ menor al 3%
   
-imagen LA
-![Figura de ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYF6B9mCpxoUN3nhPQaIfE7ehBYYOgAWdSA&s)
+
+![Figura 2](imagenes/Ejercicio1_LA.png)
 
 Figura 2. Imagen Lazo abierto.
 
 
 Haciendo los calculos $Kp < 500$, en este caso se toma un valor mayor a 500 para seguir con el ejercicio sera de 600 el valor de Kp
 
-imagen LC
-![Figura de ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYF6B9mCpxoUN3nhPQaIfE7ehBYYOgAWdSA&s)
+
+![Figura de ejemplo](imagenes/Ejercicio1_LC.png)
 
 Figura 3. Imagen Lazo cerrado.
 
@@ -86,8 +86,8 @@ $𝜙=94°$
 
 Esta frecuencia se ubica en el diagrama y se toma el valor del margen de ganacia en ese punto.
 
-Imagen puntos
-![Figura de ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYF6B9mCpxoUN3nhPQaIfE7ehBYYOgAWdSA&s)
+
+![Figura de ejemplo](imagenes/puntos.png)
 
 Figura 4. Imagen identificacion de puntos.
 
@@ -109,12 +109,7 @@ El controlador seria $C(w)=\frac{1+38.31w}{1+1665.83}$
 
 Y el nuevo diagrama seria 
 
-Imagen nuevo bode
-![Figura de ejemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCYF6B9mCpxoUN3nhPQaIfE7ehBYYOgAWdSA&s)
+
+![Figura de ejemplo](imagenes/nuevobode.png)
 
 Figura 5. Imagen Diagrama bode con controlador.
-
-
-
-
-
