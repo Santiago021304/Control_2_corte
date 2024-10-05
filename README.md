@@ -14,6 +14,7 @@ El margen de ganancia (MG) es el cambio en la ganancia de lazo abierto requerido
 ## Margen de fase
 El margen de fase (MP) es el cambio en la fase de lazo abierto necesario para que un sistema en lazo cerrado se vuelva inestable. Este se mide en grados y se toma como referencia cuando la ganancia es unitaria (0 dB). Un MP mayor a -180° indica estabilidad, mientras que un MP menor a -180° puede indicar inestabilidad.
 ## Imagen de ejemplo
+![Figura de ejemplo en clase](images/plantilla/Captura2.PNG)
 Un sistema con MG y MP positivos es estable, pero si alguno de estos márgenes es cero o negativo, el sistema puede volverse inestable. Además, se recomienda que estos márgenes sean lo más grandes posible para garantizar estabilidad.
 ## Respuesta temporal en sistemas continuos y su relación entre margen de fase y maximo sobreimpulso
 Para sistemas de segundo orden, el margen de fase está directamente relacionado con el porcentaje del maximo sobreimpluso (%overshoot). Generalmente, este sobrepaso se aproxima con base en el margen de fase disponible. El margen de fase y el porcentaje de sobrepaso están relacionados, de modo que un mayor margen de fase reduce el overshoot en la respuesta del sistema. 
